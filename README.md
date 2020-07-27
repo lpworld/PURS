@@ -2,9 +2,9 @@
 
 This is our implementation for the paper:
 
-**Pan Li and Alexander Tuzhilin. "PURS: Personalized Unexpected Recommender System for Improving User Satisfaction." Proceedings of the 13th International Conference on Web Search and Data Mining. 2020.** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3336191.3371793)
+**Pan Li and Alexander Tuzhilin. "PURS: Personalized Unexpected Recommender System for Improving User Satisfaction." Proceedings of the 14th ACM Conference on Recommender Systems. 2020.** [[Paper]](https://lpworld.github.io/files/recsys20.pdf)
 
-**Dataset:**  [[Yelp dataset]] (https://www.yelp.com/dataset/challenge) [[MovieLens Dataset]] (https://grouplens.org/datasets/movielens/) 
+**Dataset:**  [[Yelp dataset]](https://www.yelp.com/dataset/challenge) [[MovieLens Dataset]](https://grouplens.org/datasets/movielens/) 
 Due to the confidential agreement with the Youku company, we are not allowed to make the Youku dataset publicly available. Nevertheless, you are always welcome to use our codes for the two public datasets and your own dataset.
 
 **Please cite our RecSys'20 paper if you use our codes. Thanks!** 
